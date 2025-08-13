@@ -14,6 +14,11 @@ const mainNavItems: NavItem[] = [
         href: '/dashboard',
         icon: LayoutGrid,
     },
+    {
+        title: 'proficiency questions',
+        href: '/proficiency-questions',
+        icon: LayoutGrid,
+    },
 ];
 
 const footerNavItems: NavItem[] = [
