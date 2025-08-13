@@ -1,7 +1,6 @@
 <?php
 
 use Inertia\Inertia;
-use App\Models\ProficiencyQuestion;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\QuestionController;
 use App\Http\Controllers\ProficiencyQuestionController;

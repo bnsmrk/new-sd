@@ -16,7 +16,7 @@ const mainNavItems: NavItem[] = [
     },
     {
         title: 'proficiency questions',
-        href: '/proficiency-questions',
+        href: '/proficiency',
         icon: LayoutGrid,
     },
 ];
